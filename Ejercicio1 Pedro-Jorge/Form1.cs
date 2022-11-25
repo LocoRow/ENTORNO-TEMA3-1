@@ -67,7 +67,7 @@ namespace Ejercicio1_Pedro_Jorge
                     coste = 5 + 0.75 * (numPalabras - 10);
             else
                 coste = 0;
-            txtPrecio.Text = coste.ToString() + " euros";
+            txtPrecio.Text = coste.ToString() + " euros ";
         }
 
     }
