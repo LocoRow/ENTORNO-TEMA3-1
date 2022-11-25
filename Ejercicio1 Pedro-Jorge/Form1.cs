@@ -68,9 +68,11 @@ namespace Ejercicio1_Pedro_Jorge
             else
                 coste = 0;
             txtPrecio.Text = coste.ToString() + " euros ";
-            /* Pedro es un pringao*
-             * 
-             * añado comentario en la rama comentario/
+         
+            /* Pedro es un pringao
+             quiero cambiar esto solo en la rama nueva 
+            que he creado de COMENTARIO*/
+
         }
 
     }
